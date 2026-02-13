@@ -1,0 +1,11 @@
+# Pothole Detection Dataset Configuration
+
+# Paths
+path: C:\Users\muham\Documents\ThePythonCode\Pot-Hole-Detection\dataset
+train: images/train
+val: images/valid
+test: images/test
+
+# Classes
+nc: 1  # number of classes
+names: ['pothole']  # class names
